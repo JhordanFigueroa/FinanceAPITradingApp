@@ -14,6 +14,9 @@ To start the project go to ProjectRunner class and click on the main method to r
 ### GitHub Repository Link 
 https://github.com/JhordanFigueroa/UPENN591FinalProject
 
+### Video Presentation
+https://drive.google.com/file/d/1WAwMXpyHPmgsaPQvyve6YYDBlcX-mJt7/view?usp=sharing
+
 ## Purpose 
 This is the final project for the Fall 2019 UPENN MCIT 591. The purpose of the program, wherein the primary controller 
 is found in the ProjectRunner.java class, is to obtain live market quotes from the "Investor's Exchange" free API, 
