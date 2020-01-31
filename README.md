@@ -12,7 +12,7 @@ This is not intended to serve as the basis for any investment decision.
 To start the project go to ProjectRunner class and click on the main method to run the program. 
 
 ### GitHub Repository Link 
-https://github.com/UPenn-CIT599/final-project-team-30-financiers
+https://github.com/JhordanFigueroa/UPENN591FinalProject
 
 ## Purpose 
 This is the final project for the Fall 2019 UPENN MCIT 591. The purpose of the program, wherein the primary controller 
